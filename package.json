@@ -20,7 +20,7 @@
         "mailgun.js": "*",
         "node-telegram-bot-api": "*",
         "cryptonote-util": "git://github.com/dvandal/node-cryptonote-util",
-        "cryptonight-hashing": "git://github.com/dvandal/node-cryptonight-hashing",
+        "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
         "multi-hashing": "git://github.com/dvandal/node-multi-hashing"
     },
     "engines": {
