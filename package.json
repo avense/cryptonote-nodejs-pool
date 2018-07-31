@@ -19,9 +19,9 @@
         "nodemailer-sendmail-transport": "*",
         "mailgun.js": "*",
         "node-telegram-bot-api": "*",
-        "cryptonote-util": "git://github.com/dvandal/node-cryptonote-util",
+        "cryptonote-util": "git://github.com/avensat/node-cryptonote-util.git",
         "cryptonight-hashing": "git://github.com/MoneroOcean/node-cryptonight-hashing.git",
-        "multi-hashing": "git://github.com/dvandal/node-multi-hashing"
+        "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git"
     },
     "engines": {
         "node": ">=4.0"
